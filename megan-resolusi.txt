@@ -3,3 +3,4 @@ megan resolusi
 -membuat platform untuk mengeloal absen
 -membuat forum disk
 -kolaborasi dengan banyak expert
+-membuat php 
